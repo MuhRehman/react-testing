@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/royal/build/static/css/main.b22bd36b.chunk.css",
+    "main.js": "/royal/build/static/js/main.0c641d0a.chunk.js",
+    "main.js.map": "/royal/build/static/js/main.0c641d0a.chunk.js.map",
+    "runtime-main.js": "/royal/build/static/js/runtime-main.a2e8ab54.js",
+    "runtime-main.js.map": "/royal/build/static/js/runtime-main.a2e8ab54.js.map",
+    "static/js/2.1ad3db09.chunk.js": "/royal/build/static/js/2.1ad3db09.chunk.js",
+    "static/js/2.1ad3db09.chunk.js.map": "/royal/build/static/js/2.1ad3db09.chunk.js.map",
+    "static/css/3.903a27b1.chunk.css": "/royal/build/static/css/3.903a27b1.chunk.css",
+    "static/js/3.5d8fa0d1.chunk.js": "/royal/build/static/js/3.5d8fa0d1.chunk.js",
+    "static/js/3.5d8fa0d1.chunk.js.map": "/royal/build/static/js/3.5d8fa0d1.chunk.js.map",
+    "static/css/4.6b490189.chunk.css": "/royal/build/static/css/4.6b490189.chunk.css",
+    "static/js/4.14caff01.chunk.js": "/royal/build/static/js/4.14caff01.chunk.js",
+    "static/js/4.14caff01.chunk.js.map": "/royal/build/static/js/4.14caff01.chunk.js.map",
+    "static/css/5.859ebdb9.chunk.css": "/royal/build/static/css/5.859ebdb9.chunk.css",
+    "static/js/5.db2b1c52.chunk.js": "/royal/build/static/js/5.db2b1c52.chunk.js",
+    "static/js/5.db2b1c52.chunk.js.map": "/royal/build/static/js/5.db2b1c52.chunk.js.map",
+    "index.html": "/royal/build/index.html",
+    "precache-manifest.5cd08bd1593598d584c1e44dffd5ecc0.js": "/royal/build/precache-manifest.5cd08bd1593598d584c1e44dffd5ecc0.js",
+    "service-worker.js": "/royal/build/service-worker.js",
+    "static/css/3.903a27b1.chunk.css.map": "/royal/build/static/css/3.903a27b1.chunk.css.map",
+    "static/css/4.6b490189.chunk.css.map": "/royal/build/static/css/4.6b490189.chunk.css.map",
+    "static/css/5.859ebdb9.chunk.css.map": "/royal/build/static/css/5.859ebdb9.chunk.css.map",
+    "static/css/main.b22bd36b.chunk.css.map": "/royal/build/static/css/main.b22bd36b.chunk.css.map",
+    "static/js/2.1ad3db09.chunk.js.LICENSE": "/royal/build/static/js/2.1ad3db09.chunk.js.LICENSE",
+    "static/js/3.5d8fa0d1.chunk.js.LICENSE": "/royal/build/static/js/3.5d8fa0d1.chunk.js.LICENSE",
+    "static/media/construction.png": "/royal/build/static/media/construction.b1a3498d.png",
+    "static/media/r11.png": "/royal/build/static/media/r11.10861a45.png",
+    "static/media/Aboutstyle.css": "/royal/build/static/media/wddding.6b79a310.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2e8ab54.js",
+    "static/css/3.903a27b1.chunk.css",
+    "static/js/3.5d8fa0d1.chunk.js",
+    "static/css/main.b22bd36b.chunk.css",
+    "static/js/main.0c641d0a.chunk.js"
+  ]
+}
